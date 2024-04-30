@@ -14,8 +14,8 @@ This repository is a record of my 100-day journey learning Rust programming lang
     <td>Hello World</td>
   </tr>
   <tr>
-    <td>Day</td>
-    <td>Done</td>
+    <td>2</td>
+    <td>Variables & Shadowing</td>
   </tr>
   <tr>
     <td>Day</td>
