@@ -1,6 +1,9 @@
 # 100 day's of Rust
-Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without needing a garbage collector, making it a useful language for a number of use cases other languages aren't good at: embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems.
+This repository is a record of my 100-day journey learning Rust programming language. 
 
+**iNTRO:** Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without needing a garbage collector, making it a useful language for a number of use cases other languages aren't good at: embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems.
+
+**Goal:** Gain a strong foundation in Rust and low level concepts and develop practical skills through daily coding exercises and projects.
 <table>
   <tr>
     <td>Day</td>
@@ -24,4 +27,5 @@ Rust is a systems programming language focused on three goals: safety, speed, an
   </tr>
 </table>
 
-Commit: Day X: Description of what you worked on
+**Tips:**
+* Be consistent with your daily practice.
