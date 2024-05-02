@@ -73,19 +73,19 @@ fn main() {
     let p2: isize = 1;
 
     // characters, &str, and String
-    let c1: char = "c";
+    let c1: char = 'c';
     let s1: &str = "Hey";
     let s2: String = String::from("Hey");
 
     // Arrays
-    let a1: /*[i32; 5]*/ = [1,2,3,4,5];
+    let a1: /*[i32; 5]*/ = "[1,2,3,4,5]";
 
-    let i1 132 = a1[4];
+    // let i1 132 = a1[4];
 
     // tuples
     let t1: (i32, i32, i32, i32) = (1,2,3,4);
     println(t1);
-    let t1: (i32, &str, String, char) = (1, "Hey", "Tuples", "R");
+    let t1: (i32, &str, String, char) = (1, "Hey", "Tuples", 'R');
     println!("Tuples is {t1}");
 
     let s1: &str = t1.2;
