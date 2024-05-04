@@ -22,8 +22,8 @@ This repository is a record of my 100-day journey learning Rust programming lang
     <td>Data Types: boolean, sigend and unsigend integers, floating point, platform specific integers, characters, &str, and String, Arrays, tuples and Type aliasing</td>
   </tr>
   <tr>
-    <td>Day</td>
-    <td>Done</td>
+    <td>4</td>
+    <td>Constants & Statics Variables</td>
   </tr>
 </table>
 
