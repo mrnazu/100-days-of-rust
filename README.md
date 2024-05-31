@@ -29,6 +29,10 @@ This repository is a record of my 100-day journey learning Rust programming lang
   <td>5</td>
   <td>Functions</td>
   </tr>
+  <tr>
+  <td>6</td>
+  <td>Constants & Statics</td>
+  </tr>
 </table>
 
 **Tips:**
